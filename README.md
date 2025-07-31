@@ -1,6 +1,6 @@
 # 🤝 Auto-Matching Donation Smart Contract
 
-## 📝 What
+## 📝 What 
 
 A smart contract that allows:
 
